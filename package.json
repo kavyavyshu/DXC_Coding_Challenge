@@ -1,0 +1,21 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "main": "fibo.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.3.1",
+    "prompt-sync": "^4.2.0",
+    "save-dev": "^0.0.1-security"
+  },
+  "directories": {
+    "test": "test"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": ""
+}
