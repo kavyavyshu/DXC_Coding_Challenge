@@ -29,4 +29,4 @@
 	
 2. Run the unit test cases using command: npm run test
 
-	<img width="407" alt="image" src="https://user-images.githubusercontent.com/119288761/204297310-e14709ba-55ab-480c-b13c-1880c076c3fd.png">
+	<img width="425" alt="image" src="https://user-images.githubusercontent.com/119288761/204317236-90dcc266-b897-4da1-86b9-9ee3bfd6aecd.png">
