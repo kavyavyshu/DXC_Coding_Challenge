@@ -1,7 +1,5 @@
 // Function to generate fibonacci series
 
-const { throws } = require("assert");
-
 const mainFunction = {
     fib : function(n) {
         if (parseInt(n) < 0) {                 // Check if the input is non-positive number
